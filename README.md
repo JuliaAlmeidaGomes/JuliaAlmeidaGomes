@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuliaAlmeidaGomes
 - 👀 I’m interested in technology, psychology and administrative areas.
 - 🌱 I’m currently studying psychology in college.
-- 💞️ I’m looking to collaborate for my development and the company.
+- 💞️ I’m looking for opportunities to collaborate for my development and the company.
 - 📫 You can find me on my linkedin profile: https://www.linkedin.com/in/julia-de-almeida-gomes-812422220/
 
 <!---
